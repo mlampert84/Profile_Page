@@ -1,0 +1,96 @@
+#Home {
+    background-color: #66CCFF;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#About {
+    background-color: #FF33CC;
+}
+
+#Portfolio {
+    background-color: #FF9900;
+}
+
+#Contact {
+      background-color: #66FF33;
+      min-height: 90%;
+      height: 90%;
+}
+
+html, body {height: 100%;
+}
+
+
+.navbar{
+  background-color: #FF3366;
+  border: none;
+}
+
+.nav a {
+  color: black !important;
+}
+
+#my-scrollspy .active a {
+    background-color: #FF88FF;
+}
+
+#my-scrollspy a:hover {
+    background-color: #3333CC;
+}
+.fill{
+      min-heigth: 95%;
+      height: 95%;
+      padding-top:40px;
+      padding-bottom: 20px;
+      overflow:auto;}
+
+.vertical-align {
+   display: flex;
+  align-items: center;
+
+}
+
+h1{color:black;}
+h3{color:black;}
+h6{color:black;}
+
+.thumbnail{ text-align: center;
+            margin-top: 100px;}
+
+
+#headshot{ width: 80%;}
+
+#image-too-long{
+   overflow: hidden;
+   height: 153px;}
+
+
+
+.btn{color:black;
+     background-color: white;
+     margin: 5px;
+     border: none;
+}
+
+.btn:hover {
+  background-color: #3333CC;
+}
+
+
+#btn-group-vertical .btn {
+  margin-top: 20px ;
+}
+
+
+#social-media-buttons-intro{
+  display:block;
+  float: left;
+  margin-right: 0px;
+  padding-top:5px;
+}
+
+footer{ background-color: #66FF33;
+        color: black;
+        text-align: center;
+        padding-bottom: 20px;}
